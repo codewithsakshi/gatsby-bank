@@ -26,15 +26,22 @@ pincode: Number
 
 ### Account
 
-** Operations **
+**Operations**
 
 - create account
 - deposit amount
 - withdraw amount
 - transfer
 
-** properties **
+**properties**
 
 - accountNo
 - balance
 - user: User
+
+
+
+# Tasks
+
+-[] Create a simple server
+-[] Learn about package.json file
